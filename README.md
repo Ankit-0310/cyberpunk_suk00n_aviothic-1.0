@@ -1,11 +1,11 @@
 # Suk00n
 
 Suk00n:
-
+This is a stress-relieving website project made for the hackathon Aviothic 1.0. This project is under the theme Healthcare. This was our first hackathon.
 
 The one-step solution to get relief from your stress. Live a stress-free life!
 
-# introduction:
+📃 Description
 
 Welcome to our stress-relieving Website: Suk00n! Here, you’ll find a variety of tools and resources to help you manage and reduce stress in your daily life. From carefully crafted playlists and relaxing podcasts, to articles and tips on stress management techniques, our goal is to provide you with a one-stop-shop for all of your stress-relief needs. Whether you're looking for a quick break during a hectic workday, or a longer practice to unwind at night, we've got you covered,so don't hesitate to make time for stress relief in your busy schedule
 
@@ -13,6 +13,42 @@ So why we need this??
 —  because of no. of death increased by depression , stress, anxiety
 There are many reasons why someone might seek out psychotherapy. Some of these reasons include dealing with severe or long-term stress from a job or family situation, the loss of a loved one, or relationship or family problems. Others might seek out therapy because they are experiencing symptoms with no physical explanation, such as changes in sleep or appetite, low energy level, lack of interest or pleasure in activities they once enjoyed, persistent irritability, excessive worry, or a sense of discouragement or hopelessness that won’t go away
 
+
+Website Link-
+suk00n.netlify.app
+
+🕊 Our Tagline
+
+The one step solution to get relief from your stress. Live a stress-free life.
+
+📝 Table of Contents
+Problem it Solves
+Services
+Technology Stack
+
+🔎 Problems it Solves:
+Gives mental peace 🧘‍♀️
+Reduces stress
+Refreshes mood
+Entertains people
+Motivates people
+Helps people to lead a healthy and succesful life.
+
+💼 Our Services
+Audio Therapy
+Reading Therapy
+Yoga Therapy
+Laughing Therapy
+Talking Therapy
+Consult A Doctor
+
+Tech Stack
+
+HTML5
+
+CSS3
+
+JavaScript
 
 
 
